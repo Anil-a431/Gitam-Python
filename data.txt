@@ -1,2 +1,4 @@
 Git Exploring
 GitHub Account Creation 
+Data is successfully updated to GitHub
+If you want you need to connect to private network
