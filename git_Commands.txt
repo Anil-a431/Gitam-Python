@@ -1,0 +1,100 @@
+    2  cd Desktop
+    3  ls
+    4  mkdir Sandesh
+    5  ls
+    6  cd Sandesh
+    7  help
+    8  nano file1.txt
+    9  ls
+   10  ls
+   11  clear
+   12  commit file1.txt/
+   13  mkdir git
+   14  ls
+   15  cd git
+   16  ls
+   17  clear
+   18  cd Desktop
+   19  ls
+   20  clear
+   21  cd ..
+   22  clear
+   23  cd Desktop
+   24  mkdir gitam-training
+   25  pwd
+   26  git config
+   27  echo file1.txt
+   28  ls
+   29  clear
+   30  git version
+   31  ls
+   32  cd gitam-training
+   33  ls
+   34  mkdir git
+   35  ls
+   36  cd git
+   37  touch file.txt
+   38  ls
+   39  exit
+   40  history 
+   41  exit
+   42  pwd
+   43  cd Desktop/
+   44  ls
+   45  clear
+   46  mkdir PythonProg
+   47  cd PythonProg/
+   48  mkdir Git
+   49  ls
+   50  cd Git/
+   51  clear
+   52  git init
+   53  ls
+   54  ls -a
+   55  cd .git/
+   56  ls
+   57  cd ..
+   58  clear
+   59  git config user.name 'Anilkumar'
+   60  git config user.name
+   61  git config user.email 'madishettyanilkumar9@gmail.com'
+   62  git config user.email
+   63  ls
+   64  touch data.txt
+   65  ls
+   66  clear
+   67  echo "Git Exploring" > data.txt 
+   68  cat  data.txt 
+   69  echo "GitHub Account Creation " >> data.txt 
+   70  cat data.txt 
+   71  clear
+   72  git status
+   73  git add data.txt 
+   74  git status
+   75  git commit -m 'Initial Commit'
+   76  git status
+   77  clear
+   78  mkdir Gitam-Python
+   79  ls
+   80  git remote help
+   81  clear
+   82  git remote add Gitam-Python https://github.com/Anil-a431/Gitam-Python
+   83  git remote show
+   84  git remote --origin
+   85  clear
+   86  git remote -v
+   87  git pull Gitam-Python master
+   88  git pull Gitam-Python master
+   89  git pull Gitam-Python
+   90  git pull Gitam-Python master
+   91  git push -u Gitam-Python
+   92  git push --set-upstream Gitam-Python master
+   93  nano data.txt 
+   94  git status
+   95  git add data.txt 
+   96  git commit -m 'Second Commit'
+   97  git pull Gitam-Python 
+   98  git push -u Gitam-Python 
+   99  git push --set-upstream Gitam-Python master
+  100  history
+  101  history 100 > git_Commands.txt
